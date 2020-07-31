@@ -1,0 +1,21 @@
+		h1{
+			color: rgba(240,100,1001,0.5); 
+			/*border-color: purple;
+			border-width: 5px;
+			border-style: solid;*/
+
+			border: 1px solid purple;
+		}
+		h4{
+			color:green;
+			background: rgb(255,50,80)
+		}
+		li{
+			color: orange;
+		}
+		body{
+			background: pink;
+			/*background: url(https://media.wired.com/photos/5bb6accf0abf932caf294b18/master/w_1024%2Cc_limit/waves-730260985.jpg);
+			background-repeat: no-repeat;
+			background-size: cover;*/
+		}
