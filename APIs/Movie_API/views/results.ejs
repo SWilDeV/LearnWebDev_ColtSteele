@@ -1,0 +1,10 @@
+<h1>Hello from ejs page</h1>
+<ul>
+    <%response["Search"].forEach(function(movie){%>
+    <li><%=movie["Title"]%> - <%=movie["Year"]%></li> 
+    <%});%>
+</ul>
+
+<a href="/">
+    search again
+</a>
